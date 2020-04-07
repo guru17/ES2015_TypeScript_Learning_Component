@@ -1,5 +1,5 @@
 let displayColors = function(message, ...colors) {
-    console.log(message);
+        console.log(message);
     for(let index in colors){
         console.log(colors[index]);
     }
